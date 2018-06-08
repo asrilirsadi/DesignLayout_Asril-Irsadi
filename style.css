@@ -1,0 +1,66 @@
+/* .gaya{text-align:center; background:lightblue; padding:20px}
+.gaya:nth-last-child(odd){background: grey}
+.container-fluid{height: 200px} */
+
+
+
+/* body
+{
+    background-color: #FFE4C4;
+} */
+
+#rc11
+{
+    text-align: justify;
+    font-size: 10px;
+}
+#rc12
+{
+    text-align: left;
+   padding-bottom: 0px;
+
+}
+/* #rc21
+{
+
+} */
+#rc22
+{
+    text-align: left;
+}
+
+#parbottom
+{
+    text-align: left;
+}
+
+#content1{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    max-width: 960px;
+    margin: 0 auto;
+    }
+#content2{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    max-width: 960px;
+    margin: 0 auto;
+    }
+#content3{
+    display: grid;
+    grid-template-rows: 40% 60%;
+    max-width: 960px;
+    margin: 0 auto;
+    }
+#content4{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    max-width: 960px;
+    margin: 0 auto;
+    }
+#content5{
+    display: grid;
+    grid-template-rows: 40% 60%;
+    max-width: 960px;
+    margin: 0 auto;
+    }
